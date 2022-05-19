@@ -1,0 +1,14 @@
+{
+    "HOST" : "localhost",
+    "PORT" : 47365,
+    "PASSWORD" : "1234",
+    "CANCIONES" : ["Paganini\nLa Campanella", "Rick Astley\nNever Gonna Give You Up", "Syzz\nGimme Gimme Gimme", "Willow\nWait A Minute!"],
+    "CARATULA_1": ["data", "caratulas", "Paganini.jpg"],
+    "CARATULA_2": ["data", "caratulas", "Rick.jpg"],
+    "CARATULA_3": ["data", "caratulas", "Syzz.jpg"],
+    "CARATULA_4": ["data", "caratulas", "Willow.jpg"],
+    "CANCION_1": ["data", "musica", "Paganini.wav"],
+    "CANCION_2": ["data", "musica", "Rick Astley - Never Gonna Give You Up.wav"],
+    "CANCION_3": ["data", "musica", "Syzz - Gimme Gimme Gimme.wav"],
+    "CANCION_4": ["data", "musica", "Willow - Wait A Minute!.wav"]
+}
