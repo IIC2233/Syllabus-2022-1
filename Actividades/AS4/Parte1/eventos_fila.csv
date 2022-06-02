@@ -1,0 +1,15 @@
+numero_evento,tipo_evento,datos_evento
+1,llega_cliente,Juanito
+2,se_cuela,Pedrito;1
+3,atendido,4
+4,llega_cliente,Ana
+5,llega_cliente,Marcela
+6,llega_cliente,Ruz
+7,se_cuela,Ignacio;4
+8,se_cuela,Cristobal;4
+9,se_cuela,Julio;4
+10,atendido,4
+11,se_cuela,Joaquin;0
+12,se_cuela,Baldivia;20
+13,atendido,2
+14,atendido,12
